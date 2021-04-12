@@ -1,10 +1,8 @@
-function getAllPrimesUnder(num: number): { [key: string]: boolean } {
-    // intialize object keys from 2 - num as true
-    const allPrimesUnderNum = {}
-    for (let i = 2; i <= num; i++) {
-        if (!object.hasOwnProperty(i)) {
-        }
-    }
+import { getAllPrimesUnder } from '../util/getAllPrimesUnder'
+import { getProperDivisorsSum } from '../util/getProperDivisorsSum'
 
-    return allPrimesUnderNum
-}
+const findUpto = 10000
+const primes = getAllPrimesUnder(findUpto)
+const amicableNumbers = <number[]>[]
+
+function findAmicableNumbers() {}

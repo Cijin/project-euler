@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+    "module": "commonjs",
+    "allowJs": true,
+    "alwaysStrict": true,
+		"lib": ["es2017"],
+    "noImplicitAny": true,
+    "noImplicitThis": true,
+    "noImplicitReturns": true,
+    "strict": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true
+    },
+    "exclude": [ "node_modules"
+    ]
+ 		
+}
