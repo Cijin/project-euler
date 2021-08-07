@@ -136,6 +136,10 @@
     "word-wrap": "^1.2.3"
   },
   "devDependencies": {},
+=======
+  "description": "",
+  "main": "index.js",
+>>>>>>> f937cf8d8d13a8410b2bbc94127f34b3f587b54e
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -149,5 +153,20 @@
   "bugs": {
     "url": "https://github.com/Cijin/project-euler/issues"
   },
+<<<<<<< HEAD
   "homepage": "https://github.com/Cijin/project-euler#readme"
+=======
+  "homepage": "https://github.com/Cijin/project-euler#readme",
+  "devDependencies": {
+    "@types/node": "^14.14.31",
+    "@typescript-eslint/eslint-plugin": "^4.15.1",
+    "@typescript-eslint/parser": "^4.15.1",
+    "eslint": "^7.20.0",
+    "eslint-config-prettier": "^7.2.0",
+    "eslint-plugin-prettier": "^3.3.1",
+    "prettier": "2.2.1",
+    "prettier-eslint": "^12.0.0",
+    "typescript": "^4.1.5"
+  }
+>>>>>>> f937cf8d8d13a8410b2bbc94127f34b3f587b54e
 }
